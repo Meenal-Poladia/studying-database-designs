@@ -1,0 +1,16 @@
+/*
+
+    Introduction
+
+    Database is something that stores data. Data can be anything. It can be contact numbers of the customers to
+    ideas of a poet or an author.
+    It is a base for storing data.
+
+    Most data we see on the internet comes from the backend database. It is the database which stores our login
+    credentials and helps us to visit the webpage without signing in again.
+
+    Database helps us to run queries faster than on spreadsheet.
+
+    Database helps us to work selectively on some data also.
+
+ */

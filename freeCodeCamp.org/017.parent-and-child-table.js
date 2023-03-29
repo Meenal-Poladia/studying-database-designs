@@ -1,0 +1,12 @@
+/*
+
+    Parent and Child Table
+
+    Keys connect different tables and different tables have keys which are unique to the table. What is primary key
+    in one table might be a foreign key in another table.
+
+    Primary key is with the parent and foreign key is with the child. The child inherits the values from the parent.
+
+    In many to many relationship we have problem with the parent child relationship so we cannot store it in database.
+
+ */

@@ -1,0 +1,9 @@
+/*
+
+    Foreign Keys
+
+    Foreign key is a reference to a primary key. We can have multiple foreign keys in a table.
+
+    Multiple foreign keys have connection to different table. Each column can have one reference.
+
+ */

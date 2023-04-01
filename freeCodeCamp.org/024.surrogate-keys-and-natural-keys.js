@@ -1,0 +1,15 @@
+/*
+
+    Surrogate Keys and Natural Keys
+
+    Surrogate and natural keys are categories of primary keys.
+    Natural keys are something we want to store naturally in the table. To add a natural key we do not have to make up
+    something or add an extra  for example id.
+
+    Surrogate keys are made up keys. They are added in our column. Surrogate keys are kept very private and no one
+    knows them except for the people working with them.
+
+    When we are building our database we see to it that we do not keep changing our approach of using a surrogate key or
+    a natural key.
+
+ */
